@@ -1,0 +1,10 @@
+; Soma 7 + 4. Resultado no endereço 131: 11.
+LDA A
+ADD B
+STA RESULTADO
+HLT
+ORG 128
+A: DB 7
+B: DB 4
+ORG 131
+RESULTADO: DB 0

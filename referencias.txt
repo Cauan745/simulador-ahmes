@@ -1,0 +1,27 @@
+Referências do simulador Ahmes
+
+1. Material fornecido pelo professor
+Enunciado em descrição-trabalho.txt e código do simulador Neander na pasta neander.
+Usados como base para o trabalho.
+
+2. Página do Ahmes da UFRGS
+https://www.inf.ufrgs.br/arq/wiki/doku.php?id=ahmes
+Referência indicada no material recebido. A página não respondeu durante as tentativas de consulta.
+
+3. Documentação do Ahmes no projeto ArchSims
+https://github.com/fdcastel/ArchSims/blob/master/doc/Ahmes.md
+Usada na implementação para consultar os códigos das instruções, as operações e as regras das flags. É a documentação de outra implementação do Ahmes.
+
+4. WEBER, Raul Fernando. Fundamentos de Arquitetura de Computadores. Capítulo 5, Computador Ahmes.
+https://pt.scribd.com/document/985681086/Fundamentos-de-Arquitetura-de-Computadores
+Consultado depois da implementação para conferir o conjunto de instruções, as operações e as flags nas tabelas 5.1, 5.2 e 5.3. O link contém uma cópia do livro hospedada no Scribd.
+
+5. WEBER, Raul Fernando. Introdução à Arquitetura de Computadores. Capítulo 5, Computador AHMES.
+https://pt.scribd.com/document/16695956/Introducao-a-Arquitetura-de-Com-Put-Adores
+Consultado depois da implementação para conferir as características do processador e o endereçamento direto. O link contém uma cópia do material hospedada no Scribd.
+
+Consultas realizadas em 14/11/2026.
+
+Observações
+O montador Assembly, a interface e o limite de instruções são recursos acrescentados neste projeto. Não fazem parte do conjunto de instruções do Ahmes.
+O executável WAhmes.exe fornecido não foi executado para comparação de comportamento.

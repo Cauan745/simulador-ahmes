@@ -1,0 +1,4 @@
+#!/bin/bash
+./compNeanderTXT $1 
+gcc -o exeprogNeander exeprogNeander.c
+./exeprogNeander

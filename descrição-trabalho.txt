@@ -1,0 +1,6 @@
+Trabalho em Grupo de até 4 alunos:
+
+Fazer um simuldor Ahmes baseado no exemplo do simulador Neander em anexo.
+
+Obs.: 1 - Este trabalho vale como a nota da P1.
+          2 - O grupo pode mudar de linguagem de programação se quiser.
